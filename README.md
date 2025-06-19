@@ -2,7 +2,7 @@
 
 This project explores how data and AI can be used to enhance human learning, focusing on analytics that respect individual learners' contexts, behaviors, and goals.
 
-## 🚀 Project Overview
+## Project Overview
 
 We aim to build a human-centric learning analytics platform that enables:
 
