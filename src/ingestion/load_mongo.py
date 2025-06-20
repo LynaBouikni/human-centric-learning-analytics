@@ -18,4 +18,4 @@ db.learners.insert_many(learners)
 db.clickstream.insert_many(clickstream)
 db.reflection_notes.insert_many(notes)
 
-print("Data loaded into MongoDB Atlas!")
+print("Data loaded into MongoDB Atlas!") 
